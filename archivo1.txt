@@ -3,3 +3,9 @@ clone el proyecto principal y ahora modifico unoi de los archivos.
 
 Hola mundo
 Soy demasiado feliz aprendiendo de git
+
+
+
+requisito A
+requisito B
+requisito C
